@@ -1,0 +1,34 @@
+[
+  {
+    "n": 1,
+    "id": "123456",
+    "url": "https://arxiv.org/abs/123456",
+    "title": "Hybrid Architectures for Efficient Inference",
+    "date": "2021-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "654321",
+    "url": "https://huggingface.co/papers/654321",
+    "title": "Knowledge Distillation Techniques for Small Models",
+    "date": "2021-06-01",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "789123",
+    "url": "https://huggingface.co/papers/789123",
+    "title": "SLM-Bench: Benchmarking Language Models",
+    "date": "2022-03-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "321789",
+    "url": "https://arxiv.org/abs/321789",
+    "title": "Byte-Level Models for Efficient Inference",
+    "date": "2022-07-01",
+    "source": "arxiv"
+  }
+]

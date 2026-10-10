@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "2510.09244",
+    "url": "https://arxiv.org/html/2510.09244v1",
+    "title": "Fundamentals of Building Autonomous LLM Agents",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "N/A",
+    "url": "https://arxiv.org/pdf/2509.06948",
+    "title": "BRIDGE: A Scalable Framework for Integrating Supervised Fine-Tuning and Reinforcement Learning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "N/A",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/e9df36b21ff4ee211a8b71ee8b7e9f57-Paper-Conference.pdf",
+    "title": "AGENTBENCH",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2026.acl-long.337.pdf",
+    "title": "AGENCYBENCH: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+    "date": "2026",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "https://link.springer.com/article/10.1007/s12559-026-10619-1",
+    "url": "https://link.springer.com/article/10.1007/s12559-026-10619-1",
+    "title": "From Language Models to Agentic AI: A Survey of Autonomous, Action-Enabled, and Collaborative LLM Agents",
+    "date": "2026-08-24",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "N/A",
+    "url": "https://aclanthology.org/2024.acl-long.670.pdf",
+    "title": "Agent LUMOS: Unified and Modular Training for Open-Source Language Agents",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "N/A",
+    "url": "https://hub.agentdock.ai/docs/architecture/core/overview",
+    "title": "Core Architecture Overview - AgentDock Documentation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "N/A",
+    "url": "https://ojs.aaai.org/index.php/AAAI/article/view/40794/44755",
+    "title": "Staged RL Training for LLM Agents",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2505.21963",
+    "url": "https://huggingface.co/papers/2505.21963",
+    "title": "LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents",
+    "date": "2025-05-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2403.01976",
+    "url": "https://huggingface.co/papers/2403.01976",
+    "title": "SciAssess: Benchmarking LLM Proficiency in Scientific Literature Analysis",
+    "date": "2024-03-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "2509.26490",
+    "url": "https://huggingface.co/papers/2509.26490",
+    "title": "VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in Real-world Applications",
+    "date": "2025-09-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 12,
+    "id": "2509.00063",
+    "url": "https://huggingface.co/papers/2509.00063",
+    "title": "MolErr2Fix: Benchmarking LLM Trustworthiness in Chemistry via Modular Error Detection, Localization, Explanation, and Revision",
+    "date": "2025-08-26",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "https://dl.acm.org/doi/10.1007/s10489-026-07340-9",
+    "url": "https://dl.acm.org/doi/10.1007/s10489-026-07340-9",
+    "title": "LLM-based agent systems: a systematic literature review and position on hybrid architectures and evaluation frameworks",
+    "date": "2026-07-01",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2503.16416",
+    "url": "https://huggingface.co/papers/2503.16416",
+    "title": "Survey on Evaluation of LLM-based Agents",
+    "date": "2025-03-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "LangChain Report",
+    "url": "https://www.langchain.com/stateofaiagents",
+    "title": "LangChain State of AI Agents Report: 2024 Trends",
+    "date": "2026-06-12",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2508.11987",
+    "url": "https://huggingface.co/papers/2508.11987",
+    "title": "FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction",
+    "date": "2025-08-16",
+    "source": "hf-search"
+  }
+]

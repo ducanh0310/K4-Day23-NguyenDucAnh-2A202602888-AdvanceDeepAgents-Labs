@@ -1,0 +1,34 @@
+[
+  {
+    "n": 1,
+    "id": "arxiv:2207.001",
+    "url": "https://arxiv.org/abs/2207.001",
+    "title": "Reinforcement Learning with LLMs",
+    "date": "2022-07-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "hf-daily:2207.002",
+    "url": "https://huggingface.co/papers/2207.002",
+    "title": "Training Paradigms for LLM Reasoning",
+    "date": "2022-07-02",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "web:2023-lm-benchmark",
+    "url": "https://example.com/2023-benchmark",
+    "title": "Empirical Benchmarks for LLM Reasoning",
+    "date": "2023-03-15",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arxiv:2207.003",
+    "url": "https://arxiv.org/abs/2207.003",
+    "title": "Adaptive Environments for LLMs",
+    "date": "2022-07-03",
+    "source": "arxiv"
+  }
+]

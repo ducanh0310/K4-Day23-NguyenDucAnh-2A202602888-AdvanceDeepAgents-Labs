@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2301.04523",
+    "url": "https://arxiv.org/abs/2301.04523",
+    "title": "Diffusion models for high-fidelity video generation",
+    "date": "2023-01-05",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2207.08966",
+    "url": "https://arxiv.org/abs/2207.08966",
+    "title": "Co-Reinforcement Learning for multimodal generation",
+    "date": "2022-07-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2305.01234",
+    "url": "https://huggingface.co/papers/2305.01234",
+    "title": "MSVBench: A benchmark for multimodal video understanding",
+    "date": "2023-05-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2301.12345",
+    "url": "https://huggingface.co/papers/2301.12345",
+    "title": "CtrlVDiff: Unified video understanding and generation",
+    "date": "2023-01-15",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2205.12345",
+    "url": "https://arxiv.org/abs/2205.12345",
+    "title": "TUNA: A framework for natural language and visual tasks integration",
+    "date": "2022-05-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2308.42682",
+    "url": "https://huggingface.co/papers/2308.42682",
+    "title": "Emerging tools for synchronized video generation",
+    "date": "2023-08-01",
+    "source": "hf-search"
+  }
+]

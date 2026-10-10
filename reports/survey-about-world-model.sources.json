@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2606.00133",
+    "url": "https://arxiv.org/abs/2606.00133",
+    "title": "A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+    "date": "2026-05-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2511.09057",
+    "url": "https://arxiv.org/html/2511.09057v2",
+    "title": "A World Model for General, Interactable, and Long-Horizon World Simulation",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2602.02393",
+    "url": "https://arxiv.org/pdf/2602.02393",
+    "title": "Infinite-World: A Robust Interactive World Model",
+    "date": "N/A",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2510.19788v2",
+    "url": "https://arxiv.org/html/2510.19788v2",
+    "title": "Benchmarking World-Model Learning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2507.05169",
+    "url": "https://huggingface.co/papers/2507.05169",
+    "title": "Critiques of World Models",
+    "date": "2025-07-07",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2610.12185",
+    "url": "https://arxiv.org/abs/2610.12185",
+    "title": "RESETTLE: Robotic Recovery through Disagreement-Triggered Retrieval and Efficient Corrective Control",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2610.10047",
+    "url": "https://arxiv.org/abs/2610.10047",
+    "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2610.02386",
+    "url": "https://arxiv.org/abs/2610.02386",
+    "title": "Social Bot Detection in the Age of ChatGPT: Challenges and Opportunities",
+    "date": "2026-10-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "2402.08268",
+    "url": "https://huggingface.co/papers/2402.08268",
+    "title": "World Model on Million-Length Video And Language With RingAttention",
+    "date": "2024-02-13",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "2609.36066",
+    "url": "https://arxiv.org/abs/2609.36066",
+    "title": "AerialDojo-200K: A Large-Scale Benchmark Suite for Open-World Aerial Object-Goal Search",
+    "date": "2026-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2610.09514",
+    "url": "https://arxiv.org/abs/2610.09514",
+    "title": "STRIKE: Learning Visual State Transitions for Physical World Modeling",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 13,
+    "id": "2309.09777",
+    "url": "https://huggingface.co/papers/2309.09777",
+    "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+    "date": "2023-09-18",
+    "source": "hf-daily"
+  },
+  {
+    "n": 14,
+    "id": "2401.09985",
+    "url": "https://huggingface.co/papers/2401.09985",
+    "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+    "date": "2024-01-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2610.11559",
+    "url": "https://arxiv.org/abs/2610.11559",
+    "title": "SWE-Journey: Towards More Realistic Evaluation of Coding Assistants through Long-Horizon, Multi-Turn Interaction",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "2609.24308",
+    "url": "https://arxiv.org/abs/2609.24308",
+    "title": "HappyWorld-Bench",
+    "date": "2026-09-21",
+    "source": "arxiv"
+  }
+]
